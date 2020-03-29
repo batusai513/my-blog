@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "HOST_NAME": "@host_name"
+    }
+  }
+}
